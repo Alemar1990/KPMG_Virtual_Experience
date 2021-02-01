@@ -1,6 +1,6 @@
 # KPMG Virtual Internship
 
-https://raw.githubusercontent.com/Alemar1990/KPMG_Virtual_Experience/master/
+https://raw.githubusercontent.com/Alemar1990/KPMG_Virtual_Experience/master/KPMG-inside-sherpa-thumb.jpg
 
 ## The Innovation and Digital Solutions Division
 
