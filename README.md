@@ -17,4 +17,4 @@ Our approach is based on the proposition that business success depends on what y
 
 ## Certificate
 
-[Certification](https://insidesherpa.s3.amazonaws.com/completion-certificates/KPMG/m7W4GMqeT3bh9Nb2c_KPMG_aLCneycZzfdCYtSs7_completion_certificate.pdf)
+[Certificate of Completion](https://insidesherpa.s3.amazonaws.com/completion-certificates/KPMG/m7W4GMqeT3bh9Nb2c_KPMG_aLCneycZzfdCYtSs7_completion_certificate.pdf)
