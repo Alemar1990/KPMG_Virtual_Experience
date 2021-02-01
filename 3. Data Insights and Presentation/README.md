@@ -14,7 +14,7 @@ Please develop a dashboard that we can present to the client at our next meeting
 
 As this is not a KPMG branded deliverable, please find attached a client logo for incorporation.
 
-![Cat](https://raw.githubusercontent.com/Alemar1990/KPMG_Virtual_Experience/master/3. Data Insights and Presentation/sprocket_central_logo.png)
+![Cat](https://github.com/Alemar1990/KPMG_Virtual_Experience/blob/master/3.%20Data%20Insights%20and%20Presentation/sprocket_central_logo.png)
 
 It is important to keep in mind the business context when presenting your findings:
 
